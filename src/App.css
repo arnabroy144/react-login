@@ -1,0 +1,73 @@
+body{
+  background-color: rgb(0, 0, 0);
+  /* background-color: white; */
+}
+form{
+  /* border: 5px solid black; */
+  margin-left:40%;
+  margin-top: 200px;
+  position:absolute;
+  text-align: center;
+  padding: 20px 20px;
+  left: 0px;
+  border-radius: 10px;
+  box-shadow: 0px 8px 30px 8px rgb(122, 183, 190);
+  background-color: antiquewhite;
+}
+.box1{
+  margin-left :52px;
+  text-align: center;
+  align-items: center;
+  position:inherit;
+  border-radius: 10px;
+  border: transparent;
+  background-color: rgb(46, 42, 42);
+  color: white;
+}
+.box2{
+  margin-left: 34px;
+  text-align: center;
+  align-items: center;
+  position: inherit;
+  border-radius: 10px;
+  border: transparent;
+  background-color: rgb(46, 42, 42);
+  color: white;
+}
+.box3{
+  margin-left: 2px;
+  text-align: center;
+  align-items: center;
+  position: inherit;
+  border-radius: 10px;
+  border: transparent;
+  background-color: rgb(46, 42, 42);
+  color: white;
+}
+.box4{
+  margin-left: 50px;
+  text-align: center;
+  align-items: center;
+  position: inherit;
+  border-radius: 10px;
+  border: transparent;
+  background-color: rgb(46, 42, 42);
+  color: white;
+  
+}
+.btn{
+  background-color: rgb(46, 65, 122);
+  color: white;
+  border: transparent;
+  border-radius: 5px;
+  font-weight: 5px;
+  size: 20px;
+  padding: 10px 10px;
+}
+.date{
+  color: white;
+}
+/* .line{
+  position: absolute;
+  right:100%;
+  /* text-align: center; */
